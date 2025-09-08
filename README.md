@@ -36,7 +36,7 @@ IntelliJ IDEA
 
 Clone the repository:
 
-git clone https://github.com/username/repo.git
+git clone https://github.com/udaran92-a11y/Student_Managemnet_jdbc.git
 
 
 Open in IntelliJ IDEA
@@ -66,3 +66,4 @@ src/
 
 
 👤 Author - Udara Nawarathna
+
